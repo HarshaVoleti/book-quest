@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.book{
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+.book img{
+  width: 10%;
+  object-fit: cover;
+}
+
+.bagbt{
+  height: 1rem;
+  width: 2rem;
+}
